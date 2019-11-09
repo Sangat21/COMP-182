@@ -1,2 +1,5 @@
 # COMP-182
-Redesigned and Completed Projects/Assignments for Data Structures/Project Design Class
+
+Redoing all assignments/labs for this class using the skills I have now.
+
+All projects were completed using the NetBeans IDE.
