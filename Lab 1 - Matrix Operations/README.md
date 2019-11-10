@@ -2,7 +2,7 @@
  
  <!-- HTML CODE -->
  
- Assignment Requirements and Information: <a href="https://www.overleaf.com/read/jrmdfnndcpgs"> Click here </a>
+ Assignment Requirements and Information: <a target="_blank" rel="noopener noreferrer" href="https://www.overleaf.com/read/jrmdfnndcpgs"> Click here </a>
  
  <ul>
 <li> The usage of for loops is prohibited for this assignment. The inclusion of for loops will result in a 23% deduction. </li>
